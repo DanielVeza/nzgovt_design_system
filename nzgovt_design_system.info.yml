@@ -1,0 +1,6 @@
+name: NZ Govt design system
+type: module
+description: 'NZGOVT design system helpers.'
+package: NZGOVT Design System
+core: 8.x
+
